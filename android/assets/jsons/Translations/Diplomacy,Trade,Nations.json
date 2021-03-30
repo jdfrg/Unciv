@@ -87,7 +87,7 @@
                 Malay:"Isytiharkan perang keatas [civName]?"
 		Korean:"[civName]에 전쟁을 선포할까요?"
 		Ukrainian:"Ви дійсно хочете оголосити війну цивізації «[civName]»?"
-		Estonian:"Kuuluta sõda [civName]?"
+		Estonian:"Kuuluta sõda [civName]le?"
 }
 
 	"[civName] has declared war on us!":{
@@ -105,6 +105,7 @@
                 Malay:"[civName] telah mengisytiharkan perang pada kita"
 		Korean:"[civName]이(가) 우리에게 전쟁을 선포했습니다!"
 		Ukrainian:"[civName] оголосила війну нам!"
+		Estonian:"[civName] on meile kuulutanud sõja!"
 }
 
 	"[leaderName] of [nation]":{ // e.g. Ramasses of Egypt, Napoleon of France
@@ -121,6 +122,7 @@
 		Czech:"[leaderName], [nation]"
 		Korean:"[nation]의 [leaderName]"
 		Ukrainian:"Лідер [leaderName] нації «[nation]»"
+		Estonian:"[nation] [leaderName]
 }
 
 	"You'll pay for this!":{
@@ -137,6 +139,7 @@
 		Czech:"Za tohle zaplatite!"
 		Korean:"반드시 대가를 치르게 될거요!"
 		Ukrainian:"Ви заплатите за це"
+		Estonian:"Sa veel maksad selle eest!"
 }
 
 	"Negotiate Peace":{
@@ -152,6 +155,8 @@
                 Malay:"Berunding keamanan"
 		Korean:"평화 협상"
 		Ukrainian:"Запропонувати мир"
+		Estonian:"Läbirääkige rahu"
+		
 }
 
 	"Very well.":{
@@ -167,6 +172,7 @@
                 Malay:"Baiklah."
 		Korean:"아주 좋군."
 		Ukrainian:"Дуже добре"
+		Estonian:"Nagu soovite."
 }
 
 	"Farewell.":{
@@ -182,6 +188,7 @@
                 Malay:"Selamat tinggal."
 		Korean:"안녕히 계십시오."
 		Ukrainian:"До зустрічі"
+		Estonian:"Hüvasti"
 }
 
 	"Sounds good!":{
@@ -196,6 +203,7 @@
                 Malay:"Bagus juga!"
 		Korean:"좋습니다."
 		Ukrainian:"Звучит добре"
+		Estonian:"Kõlab hästi"
 }
 
 	"Not this time.":{ // declining trade text
@@ -211,6 +219,7 @@
                 Malay:"Bukan sekarang"
 		Korean:"이건 무리입니다."
 		Ukrainian:"Не цього разу."
+		Estonian:"Mitte sellel korral."
 }
 
 	"Excellent!":{ // AI statement after we accept a trade they proposed, and when we meet a city state, and our response when they agree to our diplomatic demand
@@ -226,6 +235,7 @@
                 Malay:"Bagus!"
 		Korean:"훌륭하군요!"
 		Ukrainian:"Чудово!"
+		Estonian:"Suurepärane!"
 }
 
 	"How about something else...":{ // Counteroffer to AI offer //shouldn't it be 'How about somenthing else?' ?
@@ -241,6 +251,7 @@
                 Malay:"Mungkin benda lain"
 		Korean:"이런 건 어떠신지요..."
 		Ukrainian:"Як щодо іншого…"
+		Estonian:"Kuidas oleks sedamoodi..."
 }
 
 	"A pleasure to meet you.":{
@@ -256,6 +267,7 @@
                 Malay:"Selamat berkenalan"
 		Korean:"만나게 되어 영광입니다."
 		Ukrainian:"Приємно зустріти вас."
+		Estonian:"Rõõm teiega kohtuda"
 }
 
 	"Our relationship: ":{
@@ -271,6 +283,7 @@
                 Malay:"Hubungan kita"
 		Korean:"현재 관계 : "
 		Ukrainian:"Наші відносини"
+		Estonian:"Meievaheline suhe: "
 }
 
 	"We have encountered the City-State of [name]!":{ // e.g. the Cultured city state of Vienna
@@ -285,6 +298,7 @@
 		German:"Wir haben den Stadtstaat von [name] entdeckt!"
 		Korean:"도시 국가 [name]와(과) 만났습니다!"
 		Ukrainian:""
+		Estonian:"Me oleme kohanud [name] linn-riiki!"
 }
 
 	// Friendship declaration flavor texts
@@ -300,6 +314,7 @@
 		German:"Freundschaft erklären ([numberOfTurns] Runden)"
                 Malay:"Isytihar Persahabatan ([numberOfTurns] pusingan)"
 		Korean:"우호 관계 선언 ([numberOfTurns] 턴 동안)"
+		Estonian:"Kuuluta sõprust ([numberOfTurns] käiguks)"
 }
 
 	"May our nations forever remain united!":{
@@ -314,6 +329,7 @@
 		German:"Mögen unsere Nationen auf immer in Freundschaft vereint sein!"
                 Malay:"Harap negara ini kekal bersatu selamanya"
 		Korean:"우리 두 국가가 언제나 힘을 합쳐 나가길!"
+		Estonian:"Jäägu meie rahvad igavesti ühtseks!"
 }
 
 	"Indeed!":{
