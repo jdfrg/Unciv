@@ -17,6 +17,7 @@
                 Malay:"Diplomasi"
 		Korean:"외교"
 		Ukrainian:"Дипломатія"
+		Estonian:"Diplomaatia"
 }
 
 	"War":{
@@ -34,6 +35,7 @@
                 Malay:"Perang"
 		Korean:"전쟁"
 		Ukrainian:"Війна"
+		Estonian:"Sõda"
 }
 
 	"Peace":{
@@ -51,6 +53,7 @@
                 Malay:"Aman"
 		Korean:"평화"
 		Ukrainian:"Мир"
+		Estonian:"Rahu"
 }
 
 	"Declare war":{
@@ -68,6 +71,7 @@
                 Malay:"Isytiharkan perang"
 		Korean:"전쟁 선포"
 		Ukrainian:"Оголосити війну"
+		Estonian:"Kuuluta sõda"
 }
 
 	"Declare war on [civName]?":{ //Don't translate in diplomacy view
@@ -83,6 +87,7 @@
                 Malay:"Isytiharkan perang keatas [civName]?"
 		Korean:"[civName]에 전쟁을 선포할까요?"
 		Ukrainian:"Ви дійсно хочете оголосити війну цивізації «[civName]»?"
+		Estonian:"Kuuluta sõda [civName]?"
 }
 
 	"[civName] has declared war on us!":{
