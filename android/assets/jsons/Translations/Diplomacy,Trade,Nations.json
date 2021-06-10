@@ -87,7 +87,7 @@
                 Malay:"Isytiharkan perang keatas [civName]?"
 		Korean:"[civName]에 전쟁을 선포할까요?"
 		Ukrainian:"Ви дійсно хочете оголосити війну цивізації «[civName]»?"
-		Estonian:"Kuuluta sõda [civName]le?"
+		Estonian:"Kas kuulutada sõda [civName]le?"
 }
 
 	"[civName] has declared war on us!":{
@@ -105,7 +105,7 @@
                 Malay:"[civName] telah mengisytiharkan perang pada kita"
 		Korean:"[civName]이(가) 우리에게 전쟁을 선포했습니다!"
 		Ukrainian:"[civName] оголосила війну нам!"
-		Estonian:"[civName] on meile kuulutanud sõja!"
+		Estonian:"[civName] on kuulutanud meile sõja!"
 }
 
 	"[leaderName] of [nation]":{ // e.g. Ramasses of Egypt, Napoleon of France
@@ -122,7 +122,7 @@
 		Czech:"[leaderName], [nation]"
 		Korean:"[nation]의 [leaderName]"
 		Ukrainian:"Лідер [leaderName] нації «[nation]»"
-		Estonian:"[nation] [leaderName]
+		Estonian:"[leaderName] [nation]lt"
 }
 
 	"You'll pay for this!":{
@@ -188,7 +188,7 @@
                 Malay:"Selamat tinggal."
 		Korean:"안녕히 계십시오."
 		Ukrainian:"До зустрічі"
-		Estonian:"Hüvasti"
+		Estonian:"Hüvasti."
 }
 
 	"Sounds good!":{
@@ -203,7 +203,7 @@
                 Malay:"Bagus juga!"
 		Korean:"좋습니다."
 		Ukrainian:"Звучит добре"
-		Estonian:"Kõlab hästi"
+		Estonian:"Kõlab hästi!"
 }
 
 	"Not this time.":{ // declining trade text
@@ -251,7 +251,7 @@
                 Malay:"Mungkin benda lain"
 		Korean:"이런 건 어떠신지요..."
 		Ukrainian:"Як щодо іншого…"
-		Estonian:"Kuidas oleks sedamoodi..."
+		Estonian:"Kuidas oleks hoopis sedamoodi..."
 }
 
 	"A pleasure to meet you.":{
@@ -267,7 +267,7 @@
                 Malay:"Selamat berkenalan"
 		Korean:"만나게 되어 영광입니다."
 		Ukrainian:"Приємно зустріти вас."
-		Estonian:"Rõõm teiega kohtuda"
+		Estonian:"Rõõm teiega kohtuda."
 }
 
 	"Our relationship: ":{
@@ -344,6 +344,7 @@
 		German:"Auf jeden Fall!"
                 Malay:"Sesungguhnya"
 		Korean:"좋소!"
+		Estonian:"Suurepärane!"
 }
 
 	// Denunceation flavour texts
@@ -358,6 +359,7 @@
 		German:"Denunziere ([numberOfTurns] Runden)"
                 Malay:"Kecam ([numberOfTurns] pusingan)"
 		Korean:"비난 ([numberOfTurns] 턴 동안)"
+		Estonian:"Häbiväärista ([numberOfTurns] käiguks"
 }
 
 	"We will remember this.":{
@@ -371,6 +373,7 @@
 		German:"Das werden wir nie vergessen!"
                 Malay:"Kami akan ingat perkara ini"
 		Korean:"우리는 이 일을 기억할 것입니다."
+		Estonian:"Me jätame selle meelde."
 }
 
 
